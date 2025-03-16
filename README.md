@@ -3,7 +3,7 @@
 The program created several classes for the car dealership system. All of which have distinct private data members, and constructors, getter methods, setter methods, and functions are set where necessary
 The main function creates a menu-driven program for the user to interact with the system. Input validation is set for the menu which is created with a switch statement. The program provides a simple interface to manage car inventory, customer orders, and employee transactions. The users are able to perform various tasks such as adding, updating, and removing cars from the inventory, and also placing orders, updating customer profiles, and processing sales.
 
-##These are some of the features of the program:
+## Features
 - Add new cars to the inventory with details like make, model, year, and price.
 - Update existing car details such as price.
 - Remove cars from the inventory.
